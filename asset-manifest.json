@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Image-Processing-Tools/static/css/main.7a488405.css",
+    "main.js": "/Image-Processing-Tools/static/js/main.5640c554.js",
+    "static/js/488.9238f49b.chunk.js": "/Image-Processing-Tools/static/js/488.9238f49b.chunk.js",
+    "index.html": "/Image-Processing-Tools/index.html",
+    "main.7a488405.css.map": "/Image-Processing-Tools/static/css/main.7a488405.css.map",
+    "main.5640c554.js.map": "/Image-Processing-Tools/static/js/main.5640c554.js.map",
+    "488.9238f49b.chunk.js.map": "/Image-Processing-Tools/static/js/488.9238f49b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a488405.css",
+    "static/js/main.5640c554.js"
+  ]
+}
